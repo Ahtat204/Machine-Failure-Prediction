@@ -1,1 +1,1 @@
-# Machine-Failure-Detection
+# Machine-Failure-Prediciton
