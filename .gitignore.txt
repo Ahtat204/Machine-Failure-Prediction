@@ -20,6 +20,9 @@ env/
 
 *.log
 
+*.png
+*.txt
+
 
 *.csv
 *.tsv
